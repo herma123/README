@@ -25,12 +25,6 @@ I care about simple solutions, interesting experiments and projects that are act
 
 Project| What it is
 
-GoblinRPG| A Telegram RPG bot
-
-telegramdatabasebot| Telegram + database experiments
-
-telegram-crypto-bot| A Telegram bot written in C#
-
 Grustnogram API| Python API for Grustnogram
 
 
