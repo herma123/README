@@ -9,27 +9,7 @@ Building things that probably didn't need to exist — but now do.
   <a href="https://github.com/herma123?tab=repositories">
     <img src="https://img.shields.io/badge/code-Python%20%7C%20C%23-181717?style=flat" alt="code">
   </a>
-</p></div>---
-
-"about"
-
-I like turning ideas into working software.
-
-Currently exploring Python, C#, APIs, Telegram bots and automation.
-
-I care about simple solutions, interesting experiments and projects that are actually fun to build.
-
----
-
-"projects"
-
-Project| What it is
-
-Grustnogram API| Python API for Grustnogram
-
-
-«Most of these started as experiments.
-Some of them accidentally became real projects.»
+</p></div>
 
 ---
 
