@@ -1,7 +1,5 @@
 <div align="center">"herma123"
 
-Building things that probably didn't need to exist — but now do.
-
 <p>
   <a href="https://github.com/herma123">
     <img src="https://img.shields.io/github/followers/herma123?style=flat&label=followers" alt="followers">
