@@ -42,10 +42,15 @@ Some of them accidentally became real projects.»
 "stack"
 
 Python       ███████████████████░░
+
 C#           ████████████░░░░░░░░
+
 APIs         ████████████████░░░░
+
 Telegram     █████████████████░░░
+
 Automation   ███████████░░░░░░░░░
+
 
 ---
 
