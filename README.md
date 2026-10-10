@@ -1,4 +1,3 @@
-"herma123"
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0d0d0d&height=2&section=header" width="100%" />
