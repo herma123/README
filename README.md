@@ -17,7 +17,7 @@
 
 "01" / ABOUT
 
-I'm an aspiring developer focused on Python, backend development, APIs, databases, and automation.
+I'm an developer focused on Python, backend development, APIs, databases, and automation.
 
 I learn by building real projects, experimenting with different approaches, and improving my code along the way.
 
